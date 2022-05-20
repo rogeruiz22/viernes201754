@@ -18,7 +18,7 @@ public class AppTest {
 
         Assert.assertEquals(pageTitle, "Login | Salesforce");
 
-        Thread.sleep(1000);
+        Thread.sleep(2000);
 
         driver.quit();
     }
